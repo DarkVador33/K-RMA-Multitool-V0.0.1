@@ -2,5 +2,5 @@
 :main
 cls
 python main.py
-timeout /t 3>nul
+pause>nul
 goto main
