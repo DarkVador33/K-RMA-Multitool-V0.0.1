@@ -1,0 +1,8 @@
+pystyle
+requests
+discord
+colorama
+urllib
+urllib.request
+aiohttp
+discord.ext
